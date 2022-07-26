@@ -10,5 +10,5 @@
 
 [153. Find Minimum in Rotated Sorted Array] (Array/153. Find Minimum in Rotated Sorted Array.md)
 
-[26] (Array/26. Remove Duplicates from Sorted Array.md)
+[example](Array/26. Remove Duplicates from Sorted Array.md)
 
