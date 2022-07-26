@@ -6,7 +6,10 @@
 
 ## 二分法
 
-[153题目](./Array/153. Find Minimum in Rotated Sorted Array.md)
 
-[26题目](https://github.com/wenxingxingxing/leetcode/blob/3611185d373806e002bcab3d1831d839ae518346/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
+[153. Find Minimum in Rotated Sorted Array](Array/153. Find Minimum in Rotated Sorted Array.md)
+
+[153. Find Minimum in Rotated Sorted Array](Array/153. Find Minimum in Rotated Sorted Array.md)
+
+[26. Remove Duplicates from Sorted Array.md](https://github.com/wenxingxingxing/leetcode/blob/3611185d373806e002bcab3d1831d839ae518346/Array/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 
